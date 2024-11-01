@@ -1,5 +1,5 @@
 .back {
-    color: #0009EA;
+    color: #171717;
     background-color: #E5E5E5;
     padding: 10px 20px;
     width: max-content;
@@ -42,14 +42,15 @@
 }
 
 .price{
-    color:#0009EA;
+    color:#171717;
     font-size: 32px;
 }
 
 .add_brn{
-    background-color: #0009EA;
+    background-color: #171717;
     color:white;
     font-size: 20px;
     padding: 10px 30px;
     border-radius: 4px;;
 }
+

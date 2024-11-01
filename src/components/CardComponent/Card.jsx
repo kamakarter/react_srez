@@ -29,7 +29,7 @@ export function Card({ id, img, name, price, count }) {
                             <input type="email" placeholder='Ваша почта' className={style.modalInput} />
                             <input type="text" placeholder='Кол-во товара'  className={style.modalInput} />
                             <div className={style.btns_flex}>
-                                <button onClick={closeModal} >Закрыть</button>
+                                <button onClick={closeModal}>Закрыть</button>
                                 <input className={style.submit} type="submit" value="Заказать" />
                             </div>
                         </form>

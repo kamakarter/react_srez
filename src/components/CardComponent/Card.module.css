@@ -31,14 +31,15 @@
 }
 
 .card_btn {
-    background-color: rgb(182, 16, 16);
-    color: white;
+    background-color: #ccc;
+    color: #171717;
     padding: 10px 30px;
     font-size: 20px;
+    border-radius: 90px;
 }
 
 .card_btn:hover{
-    background-color: rgb(143, 16, 16);
+    background-color: #171717;
 }
 
 .modal_text{
@@ -65,7 +66,7 @@
 }
 
 .submit{
-    background-color: rgb(194, 27, 27);
+    background-color: #171717,;
     color: white;
     border:none;
     height: 100%;
@@ -73,7 +74,7 @@
 }
 
 .submit:hover{
-    background-color: rgb(143, 16, 16);
+    background-color: #171717;
 }
 
 .btns_flex{
